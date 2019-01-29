@@ -1,0 +1,30 @@
+####
+# Event Stuff
+####
+EntityDamage: true
+CanLeftClickItems: true
+CanRightClickItems: true
+CanClickItems: true
+
+####
+# Title Stuff
+####
+EnableTitle: true
+Title: '&eWillkommen'
+SubTitle: '%player%'
+
+####
+# LobbyScoreboard Stuff
+####
+Scoreboard-Title: 'Your Server'
+Scoreboard:
+- ''
+- '&7Your Name:'
+- '&a%name%'
+- ''
+- '&7Coins:'
+- '&e%coins%'
+- ''
+- '&7Rank:'
+- '%rankColor%%rank%'
+- ''

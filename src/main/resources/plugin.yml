@@ -1,0 +1,13 @@
+name: LobbySystem
+version: 1.0
+author: Langomatisch
+depend: [Vault]
+main: de.langomatisch.lobbysystem.LobbySystem
+
+commands:
+  build:
+    permission: command.build
+  fly:
+    permission: command.fly
+  warps:
+    permission: command.warps

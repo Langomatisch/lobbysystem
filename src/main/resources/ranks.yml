@@ -1,0 +1,14 @@
+Admin:
+  Permission: 'lobby.admin'
+  Name: 'Admin'
+  Color: '&4'
+  Prefix: '&4Admin &7| &4'
+  Suffix: ' &7<- Cool Dude'
+  Order: 0
+Default:
+  Permission: ''
+  Name: 'Default'
+  Color: '&7'
+  Prefix: '&7'
+  Suffix: ''
+  Order: 1

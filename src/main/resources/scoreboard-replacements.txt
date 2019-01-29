@@ -1,0 +1,5 @@
+%player% -> Playername with color
+%name% -> Playername without color
+%rank% -> Rankname without color
+%rankColor% -> Rankcolor
+%coins% -> Your Coins

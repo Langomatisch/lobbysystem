@@ -1,0 +1,27 @@
+0:
+  material: 'COMPASS'
+  displayName: '&bWarps'
+  lore:
+  - 'Test Lore'
+  amount: 1
+  data: 0
+  command: 'gamemode 1'
+  permission: 'lobbysystem.compass'
+1:
+  material: 'BLAZE_ROD'
+  displayName: '&cPlayer hider'
+  lore:
+  - 'Test Lore'
+  amount: 1
+  data: 0
+  command: 'gamemode 0'
+  permission: 'lobbysystem.player_hider'
+7:
+  material: 'NETHER_STAR'
+  displayName: '&aLobby switcher'
+  lore:
+  - 'Test Lore'
+  amount: 1
+  data: 0
+  command: 'gamemode 3'
+  permission: 'lobbysystem.lobby_switcher'
