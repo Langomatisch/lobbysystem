@@ -1,2 +1,2 @@
 # lobbysystem
-a lobbysystem for spigot
+coming soon
